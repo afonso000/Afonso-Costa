@@ -14,7 +14,7 @@ Bem vindo ao meu Github aqui você encontra meus trabalhos e um pouco da minha h
   <img align="center" alt="afonsoMySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />          
 </div>
 
- ##
+ ###
  
 <div> 
   <a href="https://www.youtube.com/channel/UCLycpIMlCgReQ4OMzJdTxKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
